@@ -1,0 +1,4 @@
+#Tue Nov 20 23:23:31 PST 2018
+base.0=/Users/jimmytruong/Desktop/PreviewsApp/android/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

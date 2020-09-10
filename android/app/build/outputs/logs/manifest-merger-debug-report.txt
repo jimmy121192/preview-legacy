@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-splash-screen] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/511b4fc87fa269bd082d417c62dc23d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/1a9056c7a90caf1a0772bf78436aca95/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/ed08a089fdf8d04e82a60db025bedbfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/2457998445967ce51bb319a617796ba8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/cdb9d034323bdcfb86d36dcadc0e3157/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46956955162a6ff7d3073bba93322376/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/64036bf34da92201c5f90712796e6bcb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a7b48e7bc4584e92f67f21a5e6ce7c9b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e2f78e6452cc1800683b6f267b6dfce2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1879c3b4855d6d89407f2ccbb957944a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0d2c085cd6bf99a1b73db7a7a87e409a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575306ef13021eb6e514a178e9ee4e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb67d2667d8392cab03393b7aa22c386/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e8dfc1f2d224396ebe7f8d5c51710b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3c128610862a8ab95c4b1fc5ac4aa78f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e17e92303c3d032f427ca2a411b84db0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77be40342925c18967045463ba1d2414/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0fa5076d8cb0d61244d6d3721c6bd02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/21be7fc8f3494fbe7655918c921aacc5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e742c0ed5dbc7cb2a4162a941f06f218/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0023204d5e42c8141f9ab3b9cfcb0197/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9f329347226dab2745c1b415a80a90c8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8722f34e4c243971d541d6c8625f05cf/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b63f430a4d9dca55056c20211dbcb36/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b001655c29ebabdfbc037019121f0f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/363e15b26773c549c94b51bef9e8fc8b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61b4ebedfcd0612e2d45df646a49f2d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d84a80bf240796fd373cb64a5e50c38b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-splash-screen] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/1a9056c7a90caf1a0772bf78436aca95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/1a9056c7a90caf1a0772bf78436aca95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/2457998445967ce51bb319a617796ba8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/2457998445967ce51bb319a617796ba8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/cdb9d034323bdcfb86d36dcadc0e3157/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/cdb9d034323bdcfb86d36dcadc0e3157/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/64036bf34da92201c5f90712796e6bcb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/64036bf34da92201c5f90712796e6bcb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a7b48e7bc4584e92f67f21a5e6ce7c9b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a7b48e7bc4584e92f67f21a5e6ce7c9b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9f329347226dab2745c1b415a80a90c8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9f329347226dab2745c1b415a80a90c8/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8722f34e4c243971d541d6c8625f05cf/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8722f34e4c243971d541d6c8625f05cf/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.previews.MainActivity
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/4f89588d2f0125f12ae8bab834962f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/511b4fc87fa269bd082d417c62dc23d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/511b4fc87fa269bd082d417c62dc23d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/1a9056c7a90caf1a0772bf78436aca95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/1a9056c7a90caf1a0772bf78436aca95/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/ed08a089fdf8d04e82a60db025bedbfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/ed08a089fdf8d04e82a60db025bedbfd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/2457998445967ce51bb319a617796ba8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/2457998445967ce51bb319a617796ba8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/cdb9d034323bdcfb86d36dcadc0e3157/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/cdb9d034323bdcfb86d36dcadc0e3157/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46956955162a6ff7d3073bba93322376/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/46956955162a6ff7d3073bba93322376/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/64036bf34da92201c5f90712796e6bcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/64036bf34da92201c5f90712796e6bcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a7b48e7bc4584e92f67f21a5e6ce7c9b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a7b48e7bc4584e92f67f21a5e6ce7c9b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e2f78e6452cc1800683b6f267b6dfce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/e2f78e6452cc1800683b6f267b6dfce2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1879c3b4855d6d89407f2ccbb957944a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1879c3b4855d6d89407f2ccbb957944a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0d2c085cd6bf99a1b73db7a7a87e409a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0d2c085cd6bf99a1b73db7a7a87e409a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575306ef13021eb6e514a178e9ee4e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575306ef13021eb6e514a178e9ee4e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb67d2667d8392cab03393b7aa22c386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fb67d2667d8392cab03393b7aa22c386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e8dfc1f2d224396ebe7f8d5c51710b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2e8dfc1f2d224396ebe7f8d5c51710b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3c128610862a8ab95c4b1fc5ac4aa78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3c128610862a8ab95c4b1fc5ac4aa78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e17e92303c3d032f427ca2a411b84db0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e17e92303c3d032f427ca2a411b84db0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77be40342925c18967045463ba1d2414/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/77be40342925c18967045463ba1d2414/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0fa5076d8cb0d61244d6d3721c6bd02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a0fa5076d8cb0d61244d6d3721c6bd02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/21be7fc8f3494fbe7655918c921aacc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/21be7fc8f3494fbe7655918c921aacc5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e742c0ed5dbc7cb2a4162a941f06f218/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e742c0ed5dbc7cb2a4162a941f06f218/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0023204d5e42c8141f9ab3b9cfcb0197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/0023204d5e42c8141f9ab3b9cfcb0197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9f329347226dab2745c1b415a80a90c8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/9f329347226dab2745c1b415a80a90c8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b63f430a4d9dca55056c20211dbcb36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b63f430a4d9dca55056c20211dbcb36/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b001655c29ebabdfbc037019121f0f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b001655c29ebabdfbc037019121f0f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/363e15b26773c549c94b51bef9e8fc8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/363e15b26773c549c94b51bef9e8fc8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61b4ebedfcd0612e2d45df646a49f2d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/61b4ebedfcd0612e2d45df646a49f2d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d84a80bf240796fd373cb64a5e50c38b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d84a80bf240796fd373cb64a5e50c38b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:22-78
+provider#android.support.v4.content.FileProvider
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from [:react-native-torch] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-torch/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-66
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/1a0afa0fbb9659b829be9ae124e8243d/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/jimmytruong/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/8ff14e327d49f34583e12c26b84fe9d0/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/jimmytruong/Desktop/PreviewsApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

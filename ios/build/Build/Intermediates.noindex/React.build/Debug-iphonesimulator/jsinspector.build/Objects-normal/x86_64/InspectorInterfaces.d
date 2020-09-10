@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/jimmytruong/Desktop/PreviewsApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
