@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://travis-ci.com/">
+  <a href="https://projectpreviews.github.io/landing/">
     <img alt="Gatsby" src="http://alonedreamer.com/jimmymedia/images/previews-logo.png" width="140" />
   </a>
 </p>
